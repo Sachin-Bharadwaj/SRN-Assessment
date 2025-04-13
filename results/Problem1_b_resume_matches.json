@@ -1,0 +1,118 @@
+[
+  {
+    "resume": "celena.pdf",
+    "matches": [
+      {
+        "company": "Glide",
+        "role": "Senior Software Engineer",
+        "locations": "New York, NY",
+        "tech_stack": [
+          "React",
+          "TypeScript",
+          "Node.js",
+          "Next.js",
+          "React Query/Tanstack",
+          "tRPC",
+          "HTML",
+          "CSS",
+          "AWS",
+          "Docker"
+        ],
+        "match_percentage": 9.0,
+        "justification": "Celena Chang's resume aligns closely with the job description. She has extensive experience with React, TypeScript, and Next.js, which are key technologies mentioned in the job description. Her work at Flatiron Health demonstrates her ability to develop scalable and well-tested systems, as well as her experience with both frontend and backend development. Additionally, her experience with Agile methodology and her role in designing and implementing technical solutions align well with the job's requirements for collaboration and technical vision. The only minor gap is the specific mention of Node.js, which is not explicitly listed in her skills, but her overall experience suggests she could quickly adapt to it."
+      },
+      {
+        "company": "Probook AI",
+        "role": "Founding Engineer",
+        "locations": "New York, NY",
+        "tech_stack": "Latest genAI stack and tooling",
+        "match_percentage": 8.0,
+        "justification": "Celena Chang's resume demonstrates strong alignment with the job description, particularly in terms of technical skills and experience in software engineering. Her expertise in full-stack development, experience with Agile methodologies, and proficiency in languages like Python, TypeScript, and JavaScript are directly relevant. Additionally, her experience in rapidly developing features and working in lean teams aligns well with the job's requirement for rapid prototyping and feature shipping. However, the resume does not explicitly mention experience with AI use cases or direct customer interaction, which slightly reduces the match score."
+      }
+    ]
+  },
+  {
+    "resume": "Calvin Goah Resume (3).pdf",
+    "matches": [
+      {
+        "company": "Pocus",
+        "role": "Software Engineer, Product",
+        "locations": [
+          "San Francisco, CA",
+          "New York, NY"
+        ],
+        "tech_stack": [
+          "React",
+          "TypeScript",
+          "NestJS",
+          "GraphQL",
+          "LLMs"
+        ],
+        "match_percentage": 9.0,
+        "justification": "Calvin's resume aligns closely with the job description for the role at Pocus. He has a strong educational background with a Bachelor's degree in Computer Science from Columbia University, which meets the STEM requirement. His experience as a Senior Software Engineer at IXL Learning demonstrates his capability in building scalable web applications, particularly with React and fullstack development, which are key requirements for the role. His career progression and technical ownership are evident from his promotions and leadership in significant projects. Additionally, his experience with startups and his location in New York City align well with the job's requirements. The only minor gap is the specific mention of experience in a high-growth startup, but his roles suggest relevant experience in dynamic environments."
+      },
+      {
+        "company": "Avoca",
+        "role": "Founding Engineer",
+        "locations": "New York, NY",
+        "tech_stack": [
+          "React",
+          "Next.js",
+          "Vue.js",
+          "PostgreSQL",
+          "MongoDB",
+          "Firebase",
+          "AWS",
+          "GCP",
+          "Azure"
+        ],
+        "match_percentage": 9.0,
+        "justification": "Calvin's resume aligns closely with the job description for the Founding Engineer role at Avoca. He has a strong educational background with a B.Sc. in Computer Science from Columbia University, which is a top-tier institution. His extensive experience as a Senior Software Engineer and Cloud Engineer demonstrates his capability in full-stack development, including modern front-end frameworks like React and back-end technologies such as NodeJS and GraphQL. Additionally, his work with AI technologies like TensorFlow and PyTorch aligns well with the AI focus of the role. His leadership experience and high ownership mindset are evident from his promotions and project leadership roles."
+      }
+    ]
+  },
+  {
+    "resume": "alonso-alphonsovich-koumba-r.-resume.pdf",
+    "matches": [
+      {
+        "company": "Pocus",
+        "role": "Software Engineer, Product",
+        "locations": [
+          "San Francisco, CA",
+          "New York, NY"
+        ],
+        "tech_stack": [
+          "React",
+          "TypeScript",
+          "NestJS",
+          "GraphQL",
+          "LLMs"
+        ],
+        "match_percentage": 9.0,
+        "justification": "Alonso's resume aligns closely with the job description for Pocus. He has over a decade of experience in software engineering, with a strong background in full-stack development, which matches the requirement for proven full-stack capabilities. His experience at Narmi Inc. and Gentem Inc. demonstrates his ability to lead projects, collaborate with cross-functional teams, and deliver impactful solutions, aligning with the role's responsibilities. Alonso's experience with modern JavaScript frameworks, including React, and his history of working in high-growth environments, further supports his fit for the role. Additionally, his educational background from Stanford and his location in New York City meet the job's educational and geographical requirements."
+      },
+      {
+        "company": "Laer (Epiq AI Labs)",
+        "role": "Backend Python Developer (SaaS & On-Prem Deployment)",
+        "locations": "New York, NY",
+        "tech_stack": [
+          "Python",
+          "Flask",
+          "Django",
+          "RESTful APIs",
+          "Microservices",
+          "SQL/NoSQL",
+          "Azure",
+          "AWS",
+          "GCP",
+          "Docker",
+          "Kubernetes",
+          "Git",
+          "CI/CD"
+        ],
+        "match_percentage": 9.0,
+        "justification": "The candidate's resume demonstrates a strong match with the job description. Alonso has extensive experience in backend development and proficiency in Python, as evidenced by his roles at Narmi Inc. and Gentem Inc., where he led the design and implementation of APIs and backend systems. His experience with Django aligns well with the requirement for web frameworks. Additionally, his leadership experience and collaboration with cross-functional teams suggest he could effectively lead a small team and manage projects. While the resume does not explicitly mention experience with Docker or Kubernetes, his background in scalable architecture and CI/CD pipelines indicates transferable skills that could be applied to cloud platforms."
+      }
+    ]
+  }
+]
